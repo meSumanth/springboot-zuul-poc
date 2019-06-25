@@ -1,0 +1,15 @@
+
+target/classes/application.properties
+target/classes/com/spring/zuul/poc/SimpleFilter.class
+target/classes/com/spring/zuul/poc/SpringbootZuulPocApplication.class
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/com.spring.zuul.poc/springboot-zuul-poc/pom.properties
+target/classes/META-INF/maven/com.spring.zuul.poc/springboot-zuul-poc/pom.xml
+target/test-classes/com/spring/zuul/poc/springbootzuulpoc/SpringbootZuulPocApplicationTests.class
+.classpath
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+.settings/org.eclipse.wst.common.project.facet.core.xml
+.springBeans
